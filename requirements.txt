@@ -1,0 +1,3 @@
+# vllm 0.32.0, torch, transformers and numpy come with the base image vllm/vllm-openai:v0.32.0-cu129 (CUDA 12.9, <= 13.2 as the guide requires)
+sherpa-onnx==2.0.1
+jupyterlab==4.4.10
