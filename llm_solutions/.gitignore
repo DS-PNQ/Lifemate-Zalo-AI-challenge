@@ -1,0 +1,12 @@
+# competition data and anything derived from it (R-RES-4), keys, run outputs
+train+public_test/
+asr_zipformer/
+api_keys.txt
+*.zip
+*.jsonl
+*.log
+transcripts*.json
+rationales*.json
+spend_usd.txt
+**/deepseek_run/
+__pycache__/
